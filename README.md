@@ -14,7 +14,7 @@ Repositorio oficial del [grupo de Meetup "Angular Málaga"](https://www.meetup.c
 * :coffee:  12:00 - 12:15 Pausa/café.
 * :computer:  12:15 - 13:15 Taller de iniciación II a cargo de Pablo Ortuño y Rubén Triviño - Conceptos básicos de Angular aplicados al hackathon guiado.
 * :coffee:  13:15 - 13:30 Pausa/café.
-* 👤 👤 13:30 - 14:00 Presentación del proyecto *People Matcher* a cargo de Karol Depka.
+* 👤 13:30 - 14:00 Presentación del proyecto *People Matcher* a cargo de Karol Depka.
 * :pizza:  14:00 - 15:00 Almuerzo.
 * :computer:  15:00 - 18:00 Hackathon guiado.
 * :speech_balloon: 18:00 - 18:15 Presentación de resultados.
