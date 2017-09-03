@@ -1,4 +1,4 @@
-<img src="logo_angular.png">
+<img src="logo_angular2.png">
 
 # Angular Málaga
 
