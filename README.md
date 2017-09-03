@@ -19,6 +19,6 @@ Repositorio oficial del [grupo de Meetup "Angular Málaga"](https://www.meetup.c
 * :computer:  15:00 - 18:00 Hackathon guiado.
 * :speech_balloon: 18:00 - 18:15 Presentación de resultados.
 
-!## Colaboradores
+
 
 
