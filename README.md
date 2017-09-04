@@ -17,7 +17,7 @@ Repositorio oficial del [grupo de Meetup "Angular Málaga"](https://www.meetup.c
 * 👤 13:30 - 14:00 Presentación del proyecto *People Matcher* a cargo de Karol Depka.
 * :pizza:  14:00 - 15:00 Almuerzo.
 * :computer:  15:00 - 18:00 Hackathon guiado.
-* :speech_balloon: 18:00 - 18:15 Presentación de resultados.
+* :speech_balloon: 18:00 - 18:30 Presentación de resultados.
 
 
 
