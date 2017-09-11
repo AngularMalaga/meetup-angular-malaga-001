@@ -28,6 +28,14 @@ Las plazas son limitadas, por tanto rogamos a los participantes que, por el moti
 * También se necesitan conocimientos básicos de HTML y CSS.
 * Hay que llevar instalado **NodeJS** (https://nodejs.org/es/) y **Angular CLI** (https://cli.angular.io/). Si alguien tiene algún problema instalando el software, puede pedir ayuda en la [página del meetup](https://www.meetup.com/es-ES/preview/Angular-Malaga/events/242187387), estaremos encantados de ayudar.
 
+## Actividades
 
+En el **Taller de iniciación I** se explicarán los conceptos básicos de Angular mediante ejemplos básicos: concepto de componente, interpolación, eventos, *ngIf, *ngFor...
 
+En el **Taller de iniciación II** se explicará en qué va a consistir el hackathon guiado y se aplicarán los conceptos vistos en el taller anterior; siempre con vistas a completar la aplicación que se propone para el hackathon.
 
+En la **Presentación del proyecto *People Matcher***, Karol Depka contará cómo surgió la idea y en qué estado se encuentra este proyecto de software libre. Seguro que os animáis a participar, ya sea como usuarios y beta-testers o incluso como programadores.
+
+El **Hackathon guiado** es una mezcla de taller y de hackathon. Hemos preparado una aplicación que seguro que os va a gustar. Hemos quitado de aquí y de allá dejando el "esqueleto". Mediante la consecución de una serie de "mini retos" deberéis ser capaces de construir la aplicación entera. Cada uno es libre de seguir las pautas marcadas o de crear funcionalidades nuevas que no se pidan (de ahí lo de "hackathon").
+
+Cualquiera de las actividades se pueden realizar de forma individual o en grupo.
