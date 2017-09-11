@@ -17,6 +17,17 @@ Repositorio oficial del [grupo de Meetup "Angular Málaga"](https://www.meetup.c
 * :computer:  14:30 - 17:30 Hackathon guiado.
 * :speech_balloon: 17:30 - 18:00 Presentación de resultados.
 
+## Asistencia al meetup
+
+Las plazas son limitadas, por tanto rogamos a los participantes que, por el motivo que sea, no vayan a asistir, cambien su estado en la [página del meetup](https://www.meetup.com/es-ES/preview/Angular-Malaga/events/242187387) para dejar paso a los que se encuentran en lista de espera.
+
+## Requisitos
+
+* Para seguir las actividades **es imprescindible llevar ordenador portátil**.
+* No es necesario saber nada de Angular pero sí que hace falta tener nociones de programación. Da igual el lenguaje, pero hay que saber al menos qué es una variable, un bucle, una sentencia condicional, etc.
+* También se necesitan conocimientos básicos de HTML y CSS.
+* Hay que llevar instalado **NodeJS** (https://nodejs.org/es/) y **Angular CLI** (https://cli.angular.io/). Si alguien tiene algún problema instalando el software, puede pedir ayuda en la [página del meetup](https://www.meetup.com/es-ES/preview/Angular-Malaga/events/242187387), estaremos encantados de ayudar.
+
 
 
 
