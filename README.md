@@ -4,20 +4,18 @@
 
 Repositorio oficial del [grupo de Meetup "Angular Málaga"](https://www.meetup.com/es-ES/preview/Angular-Malaga).
 
-## Programa del Primer Meetup Angular Málaga - 23 de septiembre de 2017 (provisional)
+## Programa del Primer Meetup Angular Málaga - 23 de septiembre de 2017
 
 * :pencil:  10:00 - 10:20 Registro de participantes.
 * :pencil:  10:20 - 10:30 Registro de los que se quedaron en reserva hasta cubrir las plazas libres.
 * :speech_balloon:  10:30 - 10:45 Presentación y explicación de las actividades que se llevarán a cabo.
-* :coffee:  10:45 - 11:00 Pausa/café.
-* :computer:  11:00 - 12:00 Taller de iniciación I a cargo de Luis José Sánchez - Conceptos básicos de Angular.
-* :coffee:  12:00 - 12:15 Pausa/café.
-* :computer:  12:15 - 13:15 Taller de iniciación II a cargo de Pablo Ortuño y Rubén Triviño - Conceptos básicos de Angular aplicados al hackathon guiado.
-* :coffee:  13:15 - 13:30 Pausa/café.
-* 👤 13:30 - 14:00 Presentación del proyecto *People Matcher* a cargo de Karol Depka.
-* :pizza:  14:00 - 15:00 Almuerzo.
-* :computer:  15:00 - 18:00 Hackathon guiado.
-* :speech_balloon: 18:00 - 18:30 Presentación de resultados.
+* :computer:  10:45 - 11:45 Taller de iniciación I a cargo de Luis José Sánchez - Conceptos básicos de Angular.
+* :coffee:  11:45 - 12:00 Pausa/café.
+* :computer:  12:00 - 13:00 Taller de iniciación II a cargo de Pablo Ortuño y Rubén Triviño - Conceptos básicos de Angular aplicados al hackathon guiado.
+* 👤 13:00 - 13:30 Presentación del proyecto *People Matcher* a cargo de Karol Depka.
+* :pizza:  13:30 - 14:30 Almuerzo.
+* :computer:  14:30 - 17:30 Hackathon guiado.
+* :speech_balloon: 17:30 - 18:00 Presentación de resultados.
 
 
 
