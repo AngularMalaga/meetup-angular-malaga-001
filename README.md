@@ -28,7 +28,7 @@ Se ruega máxima puntualidad. Seremos estrictos en los horarios para poder final
 * Para seguir las actividades **es imprescindible llevar ordenador portátil**.
 * No es necesario saber nada de Angular pero sí que hace falta tener nociones de programación. Da igual el lenguaje, pero hay que saber al menos qué es una variable, un bucle, una sentencia condicional, etc.
 * También se necesitan conocimientos básicos de HTML y CSS.
-* Hay que llevar instalado **NodeJS** (https://nodejs.org/es/) y **Angular CLI** (https://cli.angular.io/). Si alguien tiene algún problema instalando el software, puede pedir ayuda en la [página del meetup](https://www.meetup.com/es-ES/preview/Angular-Malaga/events/242187387), estaremos encantados de ayudar.
+* Hay que llevar instalado **NodeJS** (https://nodejs.org/es/) y **Angular CLI** (https://cli.angular.io/). Con la versión 6 o superior de **NodeJS** y la versión 1 o superior de **Angular CLI** debería funcionar todo bien. Para comprobar que todo funciona correctamente se puede crear un proyecto de prueba mediante `ng new prueba` y luego abrir un navegador en `http://localhost:4200/` con lo que debería mostrarse la página que viene por defecto en un proyecto de Angular. Si alguien tiene algún problema instalando el software, puede pedir ayuda en la [página del meetup](https://www.meetup.com/es-ES/preview/Angular-Malaga/events/242187387), estaremos encantados de ayudar.
 * Aunque se puede utilizar cualquier editor o IDE, recomendamos **Visual Studio Code**. Es gratuito y se puede descargar desde la página oficial: https://code.visualstudio.com/
 
 ## Actividades
