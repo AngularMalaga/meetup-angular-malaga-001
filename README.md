@@ -42,3 +42,5 @@ En la **Presentación del proyecto *People Matcher***, Karol Depka contará cóm
 El **Hackathon guiado** es una mezcla de taller y de hackathon. Hemos preparado una aplicación que seguro que os va a gustar. Hemos quitado de aquí y de allá dejando el "esqueleto". Mediante la consecución de una serie de "mini retos" deberéis ser capaces de construir la aplicación entera. Cada uno es libre de seguir las pautas marcadas o de crear funcionalidades nuevas que no se pidan (de ahí lo de "hackathon").
 
 Cualquiera de las actividades se pueden realizar de forma individual o en grupo.
+
+Si tienes dudas, puedes preguntar escribiendo un comentario en el [grupo de Meetup "Angular Málaga"](https://www.meetup.com/es-ES/preview/Angular-Malaga).
