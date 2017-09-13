@@ -43,4 +43,4 @@ El **Hackathon guiado** es una mezcla de taller y de hackathon. Hemos preparado 
 
 Cualquiera de las actividades se pueden realizar de forma individual o en grupo.
 
-Si tienes dudas, puedes preguntar escribiendo un comentario en el [grupo de Meetup "Angular Málaga"](https://www.meetup.com/es-ES/preview/Angular-Malaga).
+Si tienes dudas, puedes preguntar escribiendo un comentario en el [grupo de Meetup "Angular Málaga"](https://www.meetup.com/es-ES/preview/Angular-Malaga/events/242187387).
