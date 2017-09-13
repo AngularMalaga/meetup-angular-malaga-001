@@ -4,7 +4,7 @@
 
 Repositorio oficial del [grupo de Meetup "Angular Málaga"](https://www.meetup.com/es-ES/preview/Angular-Malaga).
 
-## Programa del Primer Meetup Angular Málaga - 23 de septiembre de 2017
+## Programa del Primer Meetup Angular Málaga - Sábado 23 de septiembre de 2017
 
 * :pencil:  10:00 - 10:20 Registro de participantes.
 * :pencil:  10:20 - 10:30 Registro de los que se quedaron en reserva hasta cubrir las plazas libres.
@@ -20,6 +20,8 @@ Repositorio oficial del [grupo de Meetup "Angular Málaga"](https://www.meetup.c
 ## Asistencia al meetup
 
 Las plazas son limitadas, por tanto rogamos a los participantes que, por el motivo que sea, no vayan a asistir, cambien su estado en la [página del meetup](https://www.meetup.com/es-ES/preview/Angular-Malaga/events/242187387) para dejar paso a los que se encuentran en lista de espera.
+
+Se ruega máxima puntualidad. Seremos estrictos en los horarios para poder finalizar a las 18:00h.
 
 ## Requisitos
 
