@@ -48,11 +48,19 @@ Si tienes dudas, puedes preguntar escribiendo un comentario en el [grupo de Meet
 ## Agenda in English
 
 10:00 - 10:30 Registration of the participants and welcome coffee, networking
+
 10:30 - 10:45 Presentation and explanation about the activities
+
 10:45 - 11:45 Workshop I: “Basic concepts in Angular” by Luis José Sánchez
+
 11:45 - 12:00 Coffe break
+
 12:00 - 13:00 Workshop II: “Basic concepts in Angular applied to the Hackaton” by Pablo Ortuño and Rubén Triviño
+
 13:00 - 13:30 Presentation “People Matcher project” by Karol Depka.
+
 13:30 - 14:30 Lunch time
+
 14:30 - 17:30 Hackathon
+
 17:30 - 18:00 Presentation of results
