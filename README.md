@@ -33,9 +33,9 @@ Se ruega máxima puntualidad. Seremos estrictos en los horarios para poder final
 
 ## Actividades
 
-En el **Taller de iniciación I** se explicarán los conceptos básicos de Angular mediante ejemplos básicos: concepto de componente, interpolación, eventos, *ngIf, *ngFor...
+En el **Taller de iniciación 1** se explicarán los conceptos básicos de Angular mediante ejemplos básicos: concepto de componente, interpolación, eventos, *ngIf, *ngFor...
 
-En el **Taller de iniciación II** se explicará en qué va a consistir el hackathon guiado y se aplicarán los conceptos vistos en el taller anterior; siempre con vistas a completar la aplicación que se propone para el hackathon.
+En el **Taller de iniciación 2** se explicará en qué va a consistir el hackathon guiado y se aplicarán los conceptos vistos en el taller anterior; siempre con vistas a completar la aplicación que se propone para el hackathon.
 
 En la **Presentación del proyecto *People Matcher***, Karol Depka contará cómo surgió la idea y en qué estado se encuentra este proyecto de software libre. Seguro que os animáis a participar, ya sea como usuarios y beta-testers o incluso como programadores.
 
